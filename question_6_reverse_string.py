@@ -2,7 +2,7 @@
 # Run the code at online-python.com or IDLE PYTHON before you commit the changes at github.com
 
 # This program is used to reverse a string.
-
+ 
 def string_reverse(str1):
     rstr1 = ''
     
